@@ -1,5 +1,13 @@
 # POKYON — Orbit Rush
 
+<!-- portfolio-website:start -->
+## Website
+
+[Open POKYON website](https://royalpuskar.github.io/POKYON/)
+
+Intended GitHub Pages address; deployment has not been verified. If it does not load, GitHub Pages must be enabled for the root of the main branch.
+<!-- portfolio-website:end -->
+
 **A fully playable, small browser arcade prototype.** Built for the Royalpuskar game-development portfolio.
 
 ## Play
@@ -44,3 +52,10 @@ This repository is the **POKYON browser game lab**. The separate [POKYON-](https
 The current implementation is a browser Canvas prototype. It does not include network multiplayer, native Android packaging, 3D graphics, anti-cheat, leaderboards, monetization, cloud saves or commercial-scale performance testing. Those remain potential engineering projects, not shipped features.
 
 **Author:** [Royalpuskar](https://github.com/Royalpuskar).
+
+
+<!-- portfolio-rights:start -->
+## Copyright
+
+© 2026 Puskar (Royalpuskar). All rights reserved for original project content, except where an applicable license grants permission. Third-party rights and notices remain with their owners.
+<!-- portfolio-rights:end -->
